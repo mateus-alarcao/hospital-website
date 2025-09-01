@@ -1,6 +1,6 @@
-# **CEUB Clinic Website**
+# **Clinic Website**
 
-This is a clinic website project I built as part of my studies at **CEUB** using **HTML, CSS, and JavaScript**. The website is designed to showcase the clinic, its staff, and latest news, with a clean and responsive layout.
+This is a clinic website project I built as part of my studies at **CEUB (Centro Universitário de Brasília)** using **HTML, CSS, and JavaScript**. The website is designed to showcase the clinic, its staff, and latest news, with a clean and responsive layout.
 
 ## **Technologies Used**
 - **HTML5** for structure  
