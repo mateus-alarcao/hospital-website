@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Entre em contato com nossa clínica para mais informações e agendamentos." />
+  <link rel="stylesheet" href="/ceub_interfaces/css/style.css" />
+  <title>Clínica - Contato</title>
+</head>
+<body>
+  <main>
+    <section class="contact-section">
+      <form id="contact-form">
+        <div class="form-group">
+          <header>
+          <h1>Entre em contato</h1>
+          </header>
+          <hr>
+          <label for="nome">Nome:</label>
+          <input type="text" id="nome" name="nome" required placeholder="Digite seu nome" />
+        </div>
+
+        <div class="form-group">
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required placeholder="seuemail@exemplo.com" />
+        </div>
+
+        <div class="form-group">
+          <label for="telefone">Telefone:</label>
+          <input type="tel" id="telefone" name="telefone" required placeholder="(11) 91234-5678" />
+        </div>
+
+        <div class="form-group">
+          <label for="mensagem">Mensagem:</label>
+          <textarea id="mensagem" name="mensagem" rows="5" required placeholder="Digite sua mensagem"></textarea>
+        </div>
+
+        <button type="submit">Enviar</button>
+      </form>
+
+      <div id="form-result"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Todos os direitos reservados &copy; Nome da Empresa 2025</p>
+  </footer>
+
+  <!-- Script externo -->
+  <script src="/js/script.js" defer></script>
+</body>
+</html>
