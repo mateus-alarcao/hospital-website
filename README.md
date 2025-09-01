@@ -35,8 +35,3 @@ This is a clinic website project I built as part of my studies at **CEUB** using
 1. **Clone this repository:**  
 `git clone https://github.com/mateus-alarcao/hospital-website.git`  
 2. **Open** `index.html` in your preferred web browser.  
-
-## **Contact**
-If you have any questions, suggestions, or feedback, feel free to reach out:  
-**Mateus Alarcão Alves**  
-**Email:** mateus@example.com
